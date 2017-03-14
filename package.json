@@ -1,0 +1,24 @@
+{
+    "name": "htmlacademy2",
+    "version": "0.0.1",
+    "private": true,
+    "description": "Shaxsiy PINK loyiham",
+    "author": "Komiljonov Rahimjon",
+    "repository" : {
+        "type": "git",
+        "url": "git@github.com:MeK-KeM/htmlacademy.git"
+    },
+    "bugs": {
+        "url": "git@github.com:MeK-KeM/htmlacademy.git"
+    },
+    "homepage": "git@github.com:MeK-KeM/htmlacademy.git",
+    "devDependencies": {
+        "editorconfig-tools": "0.1.1"
+    },
+    "scripts": {
+        "test": "editorconfig-tools check *"
+    },
+    "engines": {
+        "node": "^5.0.0"
+    }
+}
